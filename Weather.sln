@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weather", "Weather\Weather.csproj", "{5D0195DE-38BB-411B-B89F-D995B1BFD454}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weather.Tests", "Weather.Tests\Weather.Tests.csproj", "{A96C8707-7A8C-4488-9F2F-678A3C1BE501}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{5D0195DE-38BB-411B-B89F-D995B1BFD454}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D0195DE-38BB-411B-B89F-D995B1BFD454}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D0195DE-38BB-411B-B89F-D995B1BFD454}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A96C8707-7A8C-4488-9F2F-678A3C1BE501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A96C8707-7A8C-4488-9F2F-678A3C1BE501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A96C8707-7A8C-4488-9F2F-678A3C1BE501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A96C8707-7A8C-4488-9F2F-678A3C1BE501}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
